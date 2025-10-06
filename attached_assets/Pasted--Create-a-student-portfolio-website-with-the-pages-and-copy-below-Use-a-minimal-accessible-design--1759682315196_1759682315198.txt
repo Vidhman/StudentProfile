@@ -1,0 +1,253 @@
+“Create a student portfolio website with the pages and copy below. Use a minimal, accessible design with the provided palette and typography. Include a hero with two CTAs, project cards, a research page with publication + conference, a leadership page, an awards page, a résumé download, and a contact form. Optimize headings and meta descriptions as provided.”
+
+WEBSITE BRIEF FOR WIX AI
+
+Site name: Vidhman Agarwal — Engineering Empathy through Innovation
+Primary goal: Undergrad admissions showcase (ECE/Robotics + research + service)
+Target audience: Admissions readers, professors, program directors, scholarship committees
+Tone: credible, warm, driven, technically fluent, student-friendly (no jargon walls)
+Design vibe: minimal, modern, accessible
+
+BRAND & DESIGN
+
+Palette: Midnight navy (#0b1220), Electric blue (#2563eb), Soft mint (#bfe5db), Warm sand (#f7f3ef), High-contrast text (#111827).
+
+Typography: Bold geometric heading, clean humanist body (Wix equivalents ok).
+
+Imagery style: project screenshots, hardware/workbench photos, community testing images (Sarthak), simple diagrams.
+
+Components: sticky top nav, hero with CTA buttons, project cards, stat badges, timeline, testimonial quotes, contact form.
+
+Accessibility: large tap targets, alt text on images, 1.2–1.6 line spacing, strong color contrast.
+
+SITE MAP
+
+Home
+
+About
+
+Projects
+
+Research
+
+Leadership & Service
+
+Awards
+
+Résumé
+
+Contact
+
+(Optional) Blog
+
+GLOBAL NAV CTA BUTTONS
+
+Primary: “View Projects”
+
+Secondary: “Download Résumé (PDF)”
+
+Tertiary: “Contact Me”
+
+PAGE CONTENT (COPY FOR WIX)
+1) HOME
+
+Hero — headline:
+Engineering Empathy through Innovation
+
+Subheadline (2–3 lines):
+I’m Vidhman Agarwal, a high-school engineer focused on assistive tech and sustainable robotics. From an AI-powered Bharati Braille Translator to SoulSound, a quick-communication device co-tested with the Sarthak community, I build tools that make access tangible.
+
+Hero CTAs: View Projects • Download Résumé • Contact
+
+Quick highlight badges:
+
+Published researcher (Curieux Academic Journal, 2025)
+
+Robotics review + conference (SRS Bulgaria 2024)
+
+Vice Head of Service, Pathways School
+
+Junior Black Belt (9+ years)
+
+Strip: “What I care about” (3 pillars):
+
+Accessibility by design
+
+Responsible, energy-aware engineering
+
+Learning in public (open docs, demos, outreach)
+
+Featured Projects (3 cards, link to Projects page):
+
+SoulSound — Assistive phrase interface for speech/hearing-impaired users
+
+Bharati Braille Translator — Multi-language text-to-Braille pipeline
+
+Autonomous Waste Recycling Robot — Review + system proposal
+
+Testimonials/Quotes (optional):
+“Thoughtful engineering with clear social impact.” — Mentor, Skyroot (Dr. CVS Kiran)
+
+Footer line: © 2025 Vidhman Agarwal — Built with care
+
+Home SEO title: Vidhman Agarwal | ECE/Robotics Projects, Research & Service
+Home meta description: Assistive tech and robotics portfolio by high-school researcher Vidhman Agarwal — projects, publications, leadership, and résumé for undergraduate admissions.
+
+2) ABOUT
+
+Section: My why
+Ant colonies taught me the beauty of routine and robust systems. I apply that lens to engineering: quiet, reliable tools that make daily life simpler for those who are excluded by default settings.
+
+Section: Today
+IB Diploma (Math AA HL, Physics HL, Economics HL). Building assistive interfaces and sustainable systems — from SoulSound to a multi-language Braille translator — and documenting results with real users.
+
+Section: Tomorrow
+At university, I hope to explore embedded systems, low-power ML, and human-computer interaction for accessibility. I want my work in the lab to travel to clinics, classrooms, and crowded public spaces.
+
+About SEO title: About Vidhman Agarwal — Student Engineer (ECE/Robotics)
+About meta description: Background, motivation, and goals of student engineer Vidhman Agarwal focused on accessible, sustainable technology.
+
+3) PROJECTS
+
+(Each project is a card with: title, 1-line pitch, 4–6 line summary, skills/stack, links.)
+
+Project 1: SoulSound (Assistive Communication Device)
+Pitch: Quick, context-aware phrase selection for speech/hearing-impaired users.
+Summary: I designed an interface that surfaces likely phrases in public settings (transport, clinics, shops), reducing taps to communicate essentials. Conducted field feedback with Sarthak NGO members and iterated for clarity, iconography, and offline reliability.
+Skills/Stack: UI/UX, embedded/edge logic (if applicable), accessibility heuristics, user testing.
+Links: [Demo/Video] [GitHub] [Poster/PDF]
+
+Project 2: Bharati Braille Translator (Multi-Language)
+Pitch: Converts English, Hindi, Gujarati, Tamil, Malayalam, Telugu, and Bengali text to Bharati Braille.
+Summary: A modular pipeline for accurate transliteration and line-breaking suited to tactile output. Designed for screen reader compatibility and future Braille printer integration. Emphasis on error surfacing and language-specific rules.
+Skills/Stack: Python, text processing, data validation, i18n.
+Links: [GitHub] [Docs] [Demo]
+
+Project 3: Autonomous Waste Recycling Robot — Review + Proposal
+Pitch: Survey of sensing, grasping, and sorting approaches for urban recycling.
+Summary: Authored a structured review with a concept design using sensors, vacuum pre-sort, and a lightweight arm. Presented at SRS Bulgaria 2024 with feedback from the Bulgarian Academy of Sciences.
+Skills: Literature review, system design, robotics fundamentals.
+Links: [Slides/Paper] [Conference]
+
+Project 4: Integrated Health Solution (YTS Plaksha)
+Pitch: Modular vitals package with ECG, temperature, and SpO₂.
+Summary: Built and tested a simple, low-cost health platform emphasizing interpretability and safe ranges, with a path toward school/clinic demos.
+Skills: Sensors, signal basics, prototyping.
+Links: [Poster] [Repo]
+
+Project 5: Exoplanet Simulator (Unity)
+Pitch: Educational visualization of orbital dynamics.
+Summary: Simulates multi-body systems with adjustable parameters for classroom use.
+Skills: Unity, physics modeling, UI for learnability.
+Links: [Demo] [Repo]
+
+Projects SEO title: Robotics & Assistive Tech Projects — Vidhman Agarwal
+Projects meta description: Explore SoulSound, a Bharati Braille Translator, health sensors, a waste-sorting concept, and a Unity exoplanet simulator.
+
+4) RESEARCH
+
+Published:
+
+AI-Based Data Augmentation for Small, Imbalanced Datasets — Curieux Academic Journal (2025). Compared CNNs (e.g., VGG16, ResNet, YOLO variants) and augmentation strategies to stabilize accuracy on limited data.
+
+Conference / Talks:
+
+SRS Bulgaria 2024 — Robotics in Waste Sorting: Scope & Challenges. Presented a review and a concept proposal; Q&A on sensors, cost, and throughput.
+
+Mentors & Collaboration:
+
+Dr. CVS Kiran (Skyroot Aerospace): Feedback on clarity and technical rigor.
+
+Ivan Dimitrov (Bulgarian Academy of Sciences): Guidance on review structure.
+
+In Progress:
+
+Field-validation report for SoulSound (interface efficiency, phrase latency, user satisfaction).
+
+Research SEO title: Publications & Talks — Vidhman Agarwal
+Research meta description: Journal publication, conference presentation, mentors, and ongoing studies in accessible engineering.
+
+5) LEADERSHIP & SERVICE
+
+Vice Head of Service — Pathways Student Council
+Led earthquake-relief bake sales, a climate-action committee, and the “Leisure Time” pilot that safely opened outdoor spaces during breaks. Coordinated volunteers, logistics, and outreach.
+
+Community Projects:
+
+SoulSound x Sarthak: Iterative testing and feedback loops with community members.
+
+Bharati Braille Translator: Advocacy for multilingual literacy and tactile accessibility.
+
+Reflection (short):
+Leadership means shipping helpful systems and staying reachable for feedback. Service is part of the engineering spec — not an afterthought.
+
+Leadership SEO title: Leadership & Service — Pathways Council, Community Tech
+Leadership meta description: Impact through student governance and hands-on accessibility projects.
+
+6) AWARDS
+
+Curieux Academic Journal (2025): Published research author.
+
+SRS Bulgaria (2024): Conference presenter on robotics in waste sorting.
+
+IB Year 1: 40/42 (2024): 7s in HL Math, Physics, Economics.
+
+Junior Black Belt (2023): 9+ years of training; medals in sub-junior tournaments.
+
+Debate (WSDA, 2024): Competitive speaker; adjudication at school events.
+
+Awards SEO title: Awards & Milestones — Vidhman Agarwal
+Awards meta description: Academic, research, service, and sports recognitions.
+
+7) RÉSUMÉ
+
+Intro line: Download my two-page résumé for condensed project, research, and leadership details.
+Button: Download Résumé (PDF)
+Alt option: Interactive timeline (2019–2025) of projects, research, leadership, and awards.
+
+Resume SEO title: Résumé — Vidhman Agarwal
+Resume meta description: Two-page résumé with projects, publications, leadership, and skills.
+
+8) CONTACT
+
+Header: Let’s build something accessible
+Text (1–2 lines): I’m happy to share code, schematics, or run a quick demo.
+Form fields: Name, Email, Organization, Message (purpose/interest).
+Direct links: Email, LinkedIn, GitHub.
+Note: I usually reply within a few days.
+
+Contact SEO title: Contact Vidhman Agarwal
+Contact meta description: Reach out for collaborations, research, or demos.
+
+(OPTIONAL) BLOG
+
+Starter posts (titles + hook sentences):
+
+“Designing for Quick Communication in Public Spaces” — What we learned testing SoulSound.
+
+“Making Braille Multilingual” — Handling orthographic rules across scripts.
+
+“Routine over Novelty” — Why reliable systems matter.
+
+Blog SEO title: Blog — Accessible Engineering Notes
+Blog meta description: Short reflections on accessibility, robotics, and learning.
+
+GLOBAL SEO & STRUCTURED DATA
+
+Keywords to weave in: assistive technology, accessibility engineering, ECE projects, embedded systems, robotics for good, student research, Bharati Braille, SoulSound device, IB Diploma.
+Alt text pattern: “Photo of [device] showing [function] used by [user/context].”
+Favicons & OG: Add a simple VA monogram; set OG image to a clean project collage.
+
+CONTENT BLOCKS WIX CAN RE-USE (SHORT VERSIONS)
+
+One-line bio:
+Student engineer building accessible tech and sustainable robotics.
+
+Elevator pitch (90–120 chars):
+Assistive tech + robotics projects with real user testing and published research.
+
+Long bio (3–4 sentences):
+I’m Vidhman Agarwal, a high-school ECE/Robotics enthusiast focused on accessibility. I’ve built SoulSound (assistive communication) and a multi-language Bharati Braille Translator, presented robotics research internationally, and published on AI with small datasets. My goal is to study embedded systems and human-centered ML to turn lab ideas into everyday tools.
+
+Primary CTA copy:
+See how I design for access → View Projects

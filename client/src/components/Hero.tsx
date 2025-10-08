@@ -29,9 +29,8 @@ export default function Hero() {
           className="text-lg md:text-xl text-white/90 max-w-3xl mx-auto mb-12 leading-relaxed"
           data-testid="text-hero-subheadline"
         >
-          I'm Vidhman Agarwal, a high-school engineer focused on assistive tech and sustainable electrical & computational engineering. 
-          From a Multi-Lingual Bharati Braille Translator to SoulSound, a quick-communication device co-tested 
-          with the Sarthak community, I build tools that make access tangible.
+          I'm Vidhman Agarwal, a high-school engineer. From a Multi-Lingual Bharati Braille Translator to SoulSound, a quick-communication device co-tested with the Sarthak community, I build tools that make access tangible.
+
         </p>
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4">

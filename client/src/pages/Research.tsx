@@ -133,7 +133,6 @@ export default function Research() {
               <Card>
                 <CardContent className="pt-6">
                   <p className="text-muted-foreground">
-                    CREST validation report for SoulSound (interface efficiency, phrase latency, user satisfaction).
                     CREST validation report for Research Paper (model accuracy, processing latency, reviewer satisfaction with methods).
                   </p>
                 </CardContent>

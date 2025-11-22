@@ -1,4 +1,4 @@
-// vite.config.ts (at project root)
+// vite.config.ts
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 import { fileURLToPath } from "node:url";
@@ -18,14 +18,11 @@ export default defineConfig({
       "@assets": r("attached_assets"),
     },
   },
-  // MUST match your repo name on Pages
+  // project site URL
   base: "/StudentProfile/",
   build: {
-    outDir: r("dist"),
+    // build OUTSIDE client into /docs at repo root
+    outDir: r("docs"),
     emptyOutDir: true,
-  },
-  server: {
-    port: 5173,
-    fs: { strict: true, deny: ["**/.*"] },
   },
 });

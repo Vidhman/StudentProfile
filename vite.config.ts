@@ -21,8 +21,8 @@ export default defineConfig({
   // project site URL
   base: "/StudentProfile/",
   build: {
-    // build OUTSIDE client into /docs at repo root
-    outDir: r("docs"),
+    // build to /dist at repo root (matches deploy.yml)
+    outDir: r("dist"),
     emptyOutDir: true,
   },
 });

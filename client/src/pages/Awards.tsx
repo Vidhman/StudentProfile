@@ -3,6 +3,13 @@ import { Award, BookOpen, Trophy, Mic } from "lucide-react";
 
 export default function Awards() {
   const awards = [
+    
+    {
+      icon: Award,
+      year: "2025",
+      title: "CREST Gold Award",
+      description: "Awarded CREST Gold for project SoulSound",
+    },
     {
       icon: BookOpen,
       year: "2025",

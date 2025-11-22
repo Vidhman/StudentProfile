@@ -2,8 +2,8 @@ name: Deploy Vite site to GitHub Pages
 
 on:
   push:
-    branches: [ main ]        # Runs every time you push to main
-  workflow_dispatch:          # Allows manual trigger from Actions tab
+    branches: [ main ]
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -17,24 +17,23 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout code
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: 20
+          cache: npm
 
-      - name: Install dependencies and build site
-        run: |
-          npm ci
-          npm run build
-          # 👇 This line ensures deep routes like /projects don’t 404
-          cp dist/index.html dist/404.html
+      - name: Install dependencies
+        run: npm ci
 
-      - name: Upload build output
+      - name: Build
+        run: npm run build
+
+      - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: dist

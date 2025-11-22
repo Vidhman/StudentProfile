@@ -122,13 +122,7 @@ export default function Research() {
             </div>
             
             <div className="space-y-6">
-              <Card>
-                <CardContent className="pt-6">
-                  <p className="text-muted-foreground">
-                    CREST validation report for SoulSound (interface efficiency, phrase latency, user satisfaction).
-                  </p>
-                </CardContent>
-              </Card>
+              
 
               <Card>
                 <CardContent className="pt-6">
